@@ -39,3 +39,33 @@ jobs:
             semantic-release-license
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  with:
+    repository: nano-sudor-sh/-nano
+    token: ***
+    ssh-strict: true
+    persist-credentials: true
+    clean: true
+    fetch-depth: 1
+    lfs: false
+    submodules: false
+    set-safe-directory: true
+/usr/bin/docker exec  2193de6dc679598b98f28b2d4dcf991deec487f35497294cfc57fc4e58dabfc1 sh -c "cat /etc/*release | grep ^ID"
+Error relocating /__e/node20_alpine/bin/node: sched_getcpu: symbol not found
+Error relocating /__e/node20_alpine/bin/node: getrandom: symbol not found
+Error relocating /__e/node20_alpine/bin/node: getentropy: symbol not found
+Error relocating /__e/node20_alpine/bin/node: secure_getenv: symbol not found
+0s
+0s
+1s
+Post job cleanup.
+/usr/bin/docker exec  2193de6dc679598b98f28b2d4dcf991deec487f35497294cfc57fc4e58dabfc1 sh -c "cat /etc/*release | grep ^ID"
+Error relocating /__e/node20_alpine/bin/node: sched_getcpu: symbol not found
+Error relocating /__e/node20_alpine/bin/node: getrandom: symbol not found
+Error relocating /__e/node20_alpine/bin/node: getentropy: symbol not found
+Error relocating /__e/node20_alpine/bin/node: secure_getenv: symbol not found
+0s
+0s
+Cleaning up orphan processes
+
+          
