@@ -1,0 +1,18 @@
+{
+    "folders": [
+		{
+			"path": ".devcontainer"
+		}
+	],
+	"launch": {
+		"openInDocker": {}
+	},
+	"settings": {
+		"files.exclude": {
+			"logseq/*": true
+		},
+		"files.readonlyInclude": {
+			"{**/.c4z/.extsrcs/*.PROTSYM.cbl,**/.c4z/.extsrcs/*.PROTSYM.listing}": true
+		}
+	}
+}
