@@ -1,8 +1,8 @@
 <p align="center">
   <img
     width="90"
-    src="[https://1drv.ms/i/s!AtMgE5YERekygdcgwgkxCGDZH-K2-A?e=bCiYgU]"
-    alt="DeathStar~Ai – Cross-shell prompt"
+    src="Death✨Star✨AI✨Prompt"
+    alt="Death✨Star✨AI✨Prompt – Cross-shell prompt"
   />
 </p>
 
