@@ -465,8 +465,6 @@ Here's a simple example of how the NanoDeathStarAI might be programmed to create
 
 ## 📝 License
 
-Copyright © 2019-present, [Starship Contributors](https://github.com/starship/starship/graphs/contributors).<br>
-This project is [ISC](https://github.com/starship/starship/blob/master/LICENSE) licensed.
 
 [alpine linux packages]: https://pkgs.alpinelinux.org/packages?name=starship
 [arch linux extra]: https://archlinux.org/packages/extra/x86_64/starship
