@@ -1,10 +1,4 @@
-[<p align="center">
-  <img
-    width="400"
-    src="[https://docs.google.com/document/d/19aJJtYiEsqWC6260fw9IeGARfNzk4F-FXiaBuLTH3js]"
-    alt="[https://docs.google.com/document/d/19aJJtYiEsqWC6260fw9IeGARfNzk4F-FXiaBuLTH3js]"
-  />
-</p>
+<iframe src="https://drive.google.com/file/d/1pehO-o5YNmFT9ByfAld0Oj7YppAJrQK1/preview" width="640" height="480" allow="autoplay"></iframe>
 
 <p align="center">
   <a href="https://github.com/starship/starship/actions"
