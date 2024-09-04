@@ -1,8 +1,8 @@
-<p align="center">
-  ><img
+[<p align="center">
+  <img
     width="400"
     src="https://github.com/nano-sudor-sh/Death-Star-AI-Prompt"
-    alt="[https://docs.google.com/document/d/19aJJtYiEsqWC6260fw9IeGARfNzk4F-FXiaBuLTH3js]"
+    alt="[https://keep.google.com/u/0/#NOTE/1yb2NVE_vPTdiB03JPQG4RsbrWMLQ-MMMqnCq-ndEqZB5d7y201kVoiYtgv9E5g]"
   />
 </p>
 
@@ -492,3 +492,4 @@ If you're looking to further customize Starship:
 [termux]: https://github.com/termux/termux-packages/tree/master/packages/starship
 [void linux packages]: https://github.com/void-linux/void-packages/tree/master/srcpkgs/starship
 [winget]: https://github.com/microsoft/winget-pkgs/tree/master/manifests/s/Starship/Starship
+](https://keep.google.com/u/0/#NOTE/1yb2NVE_vPTdiB03JPQG4RsbrWMLQ-MMMqnCq-ndEqZB5d7y201kVoiYtgv9E5g)
