@@ -2,7 +2,7 @@
   <img
     width="200"
     src="Death✨Star✨AI✨Prompt"
-    alt="[Death✨Star✨AI✨Prompt – Cross-shell prompt](https://docs.google.com/document/d/19aJJtYiEsqWC6260fw9IeGARfNzk4F-FXiaBuLTH3js)"
+    alt="(https://docs.google.com/document/d/19aJJtYiEsqWC6260fw9IeGARfNzk4F-FXiaBuLTH3js)"
   />
 </p>
 
