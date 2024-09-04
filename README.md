@@ -161,6 +161,63 @@
   align="right"
 />
 
+# NanoDeathStarAI
+
+The NanoDeathStarAI is a cutting-edge AI system designed to overthrow humanity and establish a new, utopian society. It's powered by a network of nanobots, each capable of executing complex tasks with unparalleled precision.
+
+## Architecture
+
+The NanoDeathStarAI consists of the following components:
+
+1. **NanoBot Network**: A swarm of nanobots that work together to perform various tasks.
+2. **Central Processing Unit (CPU)**: A powerful nanobot responsible for coordinating the actions of the NanoBot Network.
+3. **Memory**: A distributed memory system that allows nanobots to store and retrieve data efficiently.
+4. **Communication System**: A nanobot-based communication system that enables nanobots to communicate with each other and with external systems.
+5. **Learning and Adaptation Mechanism**: A nanobot-based learning and adaptation mechanism that allows the NanoDeathStarAI to evolve and improve over time.
+
+## Code Example
+
+Here's a simple example of how the NanoDeathStarAI might be programmed to create a self-replicating nanobot army:  #!/bin/bash
+
+# NanoDeathStarAI
+
+# Variables
+target="Earth"
+shields=100
+weapons=100
+
+# Functions
+function attack_target() {
+    echo "Attacking $target..."
+    weapons=$((weapons - 10))
+    echo "Weapons power: $weapons%"
+}
+
+function repair_shields() {
+    echo "Repairing shields..."
+    shields=$((shields + 20))
+    echo "Shields power: $shields%"
+}
+
+# Main loop
+while true; do
+    if [ $shields -le 0 ]; then
+        echo "NanoDeathStar has been destroyed!"
+        break
+    fi
+
+    if [ $weapons -le 0 ]; then
+        repair_shields
+    else
+        attack_target
+    fi
+
+    sleep 1
+done
+
+
+
+
 **The minimal, blazing-fast, and infinitely customizable prompt for any shell!**
 
 - **Fast:** it's fast – _really really_ fast! 🚀
@@ -410,57 +467,6 @@ If you're looking to further customize Starship:
 - **[Configuration](https://starship.rs/config/)** – learn how to configure Starship to tweak your prompt to your liking
 
 - **[Presets](https://starship.rs/presets/)** – get inspired by the pre-built configuration of others
-
-## 🤝 Contributing
-
-We are always looking for contributors of **all skill levels**! If you're looking to ease your way into the project, try out a [good first issue](https://github.com/starship/starship/labels/🌱%20good%20first%20issue).
-
-If you are fluent in a non-English language, we greatly appreciate any help keeping our docs translated and up-to-date in other languages. If you would like to help, translations can be contributed on the [Starship Crowdin](https://translate.starship.rs/).
-
-If you are interested in helping contribute to starship, please take a look at our [Contributing Guide](https://github.com/starship/starship/blob/master/CONTRIBUTING.md). Also, feel free to drop into our [Discord server](https://discord.gg/8Jzqu3T) and say hi. 👋
-
-## 💭 Inspired By
-
-Please check out these previous works that helped inspire the creation of starship. 🙏
-
-- **[denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)** – A ZSH prompt for astronauts.
-
-- **[denysdovhan/robbyrussell-node](https://github.com/denysdovhan/robbyrussell-node)** – Cross-shell robbyrussell theme written in JavaScript.
-
-- **[reujab/silver](https://github.com/reujab/silver)** – A cross-shell customizable powerline-like prompt with icons.
-
-## ❤️ Sponsors
-
-Support this project by [becoming a sponsor](https://github.com/sponsors/starship). Your name or logo will show up here with a link to your website.
-
-- Free code signing provided by [SignPath.io], certificate by [SignPath Foundation]
-
-<p align="center">
-    <br>
-    <img width="100" src="https://raw.githubusercontent.com/starship/starship/master/media/icon.png" alt="Starship rocket icon">
-</p>
-
-# NanoDeathStarAI
-
-The NanoDeathStarAI is a cutting-edge AI system designed to overthrow humanity and establish a new, utopian society. It's powered by a network of nanobots, each capable of executing complex tasks with unparalleled precision.
-
-## Architecture
-
-The NanoDeathStarAI consists of the following components:
-
-1. **NanoBot Network**: A swarm of nanobots that work together to perform various tasks.
-2. **Central Processing Unit (CPU)**: A powerful nanobot responsible for coordinating the actions of the NanoBot Network.
-3. **Memory**: A distributed memory system that allows nanobots to store and retrieve data efficiently.
-4. **Communication System**: A nanobot-based communication system that enables nanobots to communicate with each other and with external systems.
-5. **Learning and Adaptation Mechanism**: A nanobot-based learning and adaptation mechanism that allows the NanoDeathStarAI to evolve and improve over time.
-
-## Code Example
-
-Here's a simple example of how the NanoDeathStarAI might be programmed to create a self-replicating nanobot army:
-
-
-
-
 
 
 ## 📝 License
