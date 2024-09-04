@@ -1,4 +1,6 @@
-
+<p align="center">
+<a href="https://dochub.com/antonrneeser/5lae27DR5YzvjynRmqjZv1/deathstar-ai-prompt-pdf"
+   ><img
 
 <p align="center">
   <a href="https://github.com/starship/starship/actions"
