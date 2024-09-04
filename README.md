@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    width="400"
+    width="90"
     src="[https://1drv.ms/i/s!AtMgE5YERekygdcgwgkxCGDZH-K2-A?e=bCiYgU]"
     alt="DeathStar~Ai – Cross-shell prompt"
   />
