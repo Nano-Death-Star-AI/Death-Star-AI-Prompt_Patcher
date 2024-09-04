@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    width="90"
+    width="200"
     src="Death✨Star✨AI✨Prompt"
-    alt="Death✨Star✨AI✨Prompt – Cross-shell prompt"
+    alt="[Death✨Star✨AI✨Prompt – Cross-shell prompt](https://docs.google.com/document/d/19aJJtYiEsqWC6260fw9IeGARfNzk4F-FXiaBuLTH3js)"
   />
 </p>
 
