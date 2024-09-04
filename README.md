@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="200"
-    src="Death✨Star✨AI✨Prompt"
+    src="(https://docs.google.com/document/d/19aJJtYiEsqWC6260fw9IeGARfNzk4F-FXiaBuLTH3js)"
     alt="(https://docs.google.com/document/d/19aJJtYiEsqWC6260fw9IeGARfNzk4F-FXiaBuLTH3js)"
   />
 </p>
