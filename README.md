@@ -2,7 +2,9 @@
   <img
     width="400"
     src="https://github.com/nano-sudor-sh/Death-Star-AI-Prompt"
-    alt="[https://keep.google.com/u/0/#NOTE/1yb2NVE_vPTdiB03JPQG4RsbrWMLQ-MMMqnCq-ndEqZB5d7y201kVoiYtgv9E5g]"
+    alt="[🖥️
+
+]"
   />
 </p>
 
