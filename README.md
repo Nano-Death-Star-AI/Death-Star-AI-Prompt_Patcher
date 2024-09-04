@@ -1,10 +1,8 @@
 [<p align="center">
   <img
     width="400"
-    src="https://github.com/nano-sudor-sh/Death-Star-AI-Prompt"
-    alt="[🖥️
-
-]"
+    src="[]"
+    alt="[]"
   />
 </p>
 
