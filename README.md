@@ -1,8 +1,8 @@
 <p align="center">
   <img
     width="200"
-    src="(https://docs.google.com/document/d/19aJJtYiEsqWC6260fw9IeGARfNzk4F-FXiaBuLTH3js)"
-    alt="(https://docs.google.com/document/d/19aJJtYiEsqWC6260fw9IeGARfNzk4F-FXiaBuLTH3js)"
+    src="https://docs.google.com/document/d/1sE2DsAoJnJfEPGHa5978JRvwUB-SepwzScpO6YSu3DI/edit?usp=sharing"
+    alt="[(https://docs.google.com/document/d/19aJJtYiEsqWC6260fw9IeGARfNzk4F-FXiaBuLTH3js)]"
   />
 </p>
 
