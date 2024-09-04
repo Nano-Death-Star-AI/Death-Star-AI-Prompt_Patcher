@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="400"
-    src="https://raw.githubusercontent.com/starship/starship/master/media/logo.png"
+    src="(https://1drv.ms/i/s!AtMgE5YERekygdcgwgkxCGDZH-K2-A?e=bCiYgU)"
     alt="DeathStar~Ai – Cross-shell prompt"
   />
 </p>
