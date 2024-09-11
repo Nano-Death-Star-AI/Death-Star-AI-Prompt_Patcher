@@ -2,6 +2,20 @@
   "image": "kalilinux/kali-rolling:latest"
 }
 
+{
+  "image": "[redacted]",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools-extension-pack"
+      ],
+      "settings": {
+        "cmake.cmakePath": "${env:SDK_NATIVE_SYSROOT}/usr/bin/cmake"
+      }
+    }
+  }
+}
+
 umount -f /mnt
   set -exu pipefall
   # Download and extract agent
