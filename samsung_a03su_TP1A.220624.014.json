@@ -1,3 +1,14 @@
+ap"terminal.integrated.env.windows": {
+    "JAVA_HOME": "C:\\Users\\lilne\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\21",
+    "PATH": "C:\\Users\\lilne\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\21\\bin;${env:PATH}",
+    "GRAALVM_HOME": "c:\\Users\\lilne\\Documents\\graalvm-jdk-22.0.1+8.1"
+}
+/review"terminal.integrated.env.windows": {
+    "JAVA_HOME": "C:\Users\lilne\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\21",
+    "PATH": "C:\Users\lilne\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\21\bin;${env:PATH}",
+    "GRAALVM_HOME": "c:\Users\lilne\Documents\graalvm-jdk-22.0.1+8.1"
+}
+
 {
     "MANUFACTURER": "samsung",
     "MODEL": "SM-S135DL",
@@ -709,3 +720,7 @@
     "persist.zit.timeout": "100000",
     "ro.com.google.clientidbase.tx": "android-samsung-rvodxd"
 }
+
+<<<<<<< Tabnine <<<<<<<
+"ro.vendor.pq.mtk_pq_support": "2",undefined+
+>>>>>>> Tabnine >>>>>>>undefined {"conversationId":"f174b31f-8eb1-4e4f-93a8-7be961bbe3e2","source":"instruct"}
